@@ -80,89 +80,70 @@
         "modified": "#e5c07b",
         "syntax": {
           "exception": {
-            "color": "#DC143C",
-            "font_style": "italic"
+            "color": "#DC143C"
           },
           "type.function": {
-            "color": "#e1ab32",
-            "font_style": "italic"
+            "color": "#4DA6FF"
           },
           "function.method": {
-            "color": "#DC143C",
-            "font_style": "italic"
+            "color": "#4DA6FF"
           },
           "comment": {
-            "color": "#7f848e",
-            "font_style": "italic"
+            "color": "#6C7380"
           },
           "keyword": {
-            "color": "#7725EE",
-            "font_style": "italic"
+            "color": "#C75AE8"
           },
           "string": {
-            "color": "#e1ab32",
-            "font_style": "italic"
+            "color": "#78C269"
           },
           "keyword.conditional": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#C75AE8"
           },
           "keyword.coroutine": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#C75AE8"
           },
           "keyword.repeat": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#C75AE8"
           },
           "keyword.exception": {
-            "color": "#DC143C",
-            "font_style": "italic"
+            "color": "#DC143C"
           },
           "keyword.operator": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#C75AE8"
           },
           "string.escape": {
-            "color": "#EA76CB",
-            "font_style": "italic"
+            "color": "#EA76CB"
           },
           "boolean": {
-            "color": "#e5c07b",
-            "font_style": "italic"
+            "color": "#D19A66"
           },
           "constant": {
-            "color": "#DC143C",
-            "font_style": "italic"
+            "color": "#D19A66"
           },
           "punctuation.special": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#A9B1D6"
           },
           "number": {
-            "color": "#e5c07b",
-            "font_style": "italic"
+            "color": "#D19A66"
           },
           "punctuation": {
-            "color": "#7755EE"
+            "color": "#A9B1D6"
           },
           "variable": {
-            "color": "#df881d"
+            "color": "#FF9E3B"
           },
           "operator": {
-            "color": "#7755EE"
+            "color": "#A9B1D6"
           },
           "type": {
-            "color": "#9a77cf",
-            "font_style": "italic"
+            "color": "#E5C07B"
           },
           "variable.builtin": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#FF9E3B"
           },
           "variable.parameter": {
-            "color": "#ff6700",
-            "font_style": "italic"
+            "color": "#FF9E3B"
           }
         },
         "players": [
